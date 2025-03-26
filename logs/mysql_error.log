@@ -1,0 +1,11 @@
+2025-03-26T14:53:15.6NZ mysqld_safe Logging to '/Applications/MAMP/logs/mysql_error.log'.
+2025-03-26T14:53:15.6NZ mysqld_safe Starting mysqld daemon with databases from /Applications/MAMP/db/mysql80
+2025-03-26T14:53:17.186660Z 0 [System] [MY-010116] [Server] /Applications/MAMP/Library/bin/mysql80/bin/mysqld (mysqld 8.0.40) starting as process 2795
+2025-03-26T14:53:17.224464Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /Applications/MAMP/db/mysql80/ is case insensitive
+2025-03-26T14:53:17.430630Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-03-26T14:53:18.538940Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-03-26T14:53:19.692253Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-03-26T14:53:19.692396Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-03-26T14:53:19.796521Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /Applications/MAMP/tmp/mysql/mysqlx.sock
+2025-03-26T14:53:19.796838Z 0 [System] [MY-010931] [Server] /Applications/MAMP/Library/bin/mysql80/bin/mysqld: ready for connections. Version: '8.0.40'  socket: '/Applications/MAMP/tmp/mysql/mysql.sock'  port: 3306  Source distribution.
+2025-03-26T14:53:20.606022Z 8 [Warning] [MY-013360] [Server] Plugin mysql_native_password reported: ''mysql_native_password' is deprecated and will be removed in a future release. Please use caching_sha2_password instead'

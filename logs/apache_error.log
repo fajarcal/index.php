@@ -1,0 +1,77 @@
+[Wed Mar 19 18:01:54.824300 2025] [:notice] [pid 2773:tid 4715359744] FastCGI: process manager initialized (pid 2773)
+[Wed Mar 19 18:01:54.830646 2025] [mpm_event:notice] [pid 2772:tid 4715359744] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Wed Mar 19 18:01:54.831597 2025] [core:notice] [pid 2772:tid 4715359744] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Mar 19 18:02:27.782076 2025] [fastcgi:error] [pid 2776:tid 123145450237952] [client ::1:50233] FastCGI: comm with server "/Applications/MAMP/fcgi-bin/php.fcgi" aborted: idle timeout (30 sec)
+[Wed Mar 19 18:02:27.785987 2025] [fastcgi:error] [pid 2776:tid 123145450237952] [client ::1:50233] FastCGI: incomplete headers (0 bytes) received from server "/Applications/MAMP/fcgi-bin/php.fcgi"
+[Wed Mar 19 18:06:09.061020 2025] [mpm_event:notice] [pid 2772:tid 4715359744] AH00491: caught SIGTERM, shutting down
+[Wed Mar 19 18:06:09.073160 2025] [:alert] [pid 2773:tid 4715359744] (2)No such file or directory: FastCGI: read() from pipe failed (0)
+[Wed Mar 19 18:06:09.074110 2025] [:alert] [pid 2773:tid 4715359744] (2)No such file or directory: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Wed Mar 19 18:06:23.573027 2025] [:notice] [pid 3416:tid 4361154048] FastCGI: process manager initialized (pid 3416)
+[Wed Mar 19 18:06:23.572141 2025] [mpm_event:notice] [pid 3415:tid 4361154048] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Wed Mar 19 18:06:23.574842 2025] [core:notice] [pid 3415:tid 4361154048] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Mar 19 18:09:19.197298 2025] [mpm_event:notice] [pid 3415:tid 4361154048] AH00491: caught SIGTERM, shutting down
+[Wed Mar 19 18:09:19.211022 2025] [:alert] [pid 3416:tid 4361154048] (2)No such file or directory: FastCGI: read() from pipe failed (0)
+[Wed Mar 19 18:09:19.211834 2025] [:alert] [pid 3416:tid 4361154048] (2)No such file or directory: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Wed Mar 19 18:09:49.670522 2025] [:notice] [pid 4184:tid 4713688576] FastCGI: process manager initialized (pid 4184)
+[Wed Mar 19 18:09:49.671753 2025] [mpm_event:notice] [pid 4182:tid 4713688576] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Wed Mar 19 18:09:49.672355 2025] [core:notice] [pid 4182:tid 4713688576] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Mar 19 18:15:16.743147 2025] [mpm_event:notice] [pid 4182:tid 4713688576] AH00491: caught SIGTERM, shutting down
+[Wed Mar 19 18:15:16.758321 2025] [:alert] [pid 4184:tid 4713688576] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Wed Mar 19 18:15:16.759218 2025] [:alert] [pid 4184:tid 4713688576] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Wed Mar 19 18:15:45.776844 2025] [mpm_event:notice] [pid 5146:tid 4643220992] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Wed Mar 19 18:15:45.777823 2025] [core:notice] [pid 5146:tid 4643220992] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Mar 19 18:15:45.776763 2025] [:notice] [pid 5147:tid 4643220992] FastCGI: process manager initialized (pid 5147)
+[Wed Mar 19 18:28:49.580278 2025] [mpm_event:notice] [pid 5146:tid 4643220992] AH00491: caught SIGTERM, shutting down
+[Wed Mar 19 18:28:49.592571 2025] [:alert] [pid 5147:tid 4643220992] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Wed Mar 19 18:28:49.594269 2025] [:alert] [pid 5147:tid 4643220992] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Wed Mar 19 20:27:55.864608 2025] [:notice] [pid 2042:tid 4684582400] FastCGI: process manager initialized (pid 2042)
+[Wed Mar 19 20:27:55.865042 2025] [mpm_event:notice] [pid 2041:tid 4684582400] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Wed Mar 19 20:27:55.866465 2025] [core:notice] [pid 2041:tid 4684582400] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Mar 20 01:21:58.315450 2025] [mpm_event:notice] [pid 2041:tid 4684582400] AH00491: caught SIGTERM, shutting down
+[Thu Mar 20 01:21:58.329979 2025] [:alert] [pid 2042:tid 4684582400] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Thu Mar 20 01:21:58.330900 2025] [:alert] [pid 2042:tid 4684582400] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Thu Mar 20 15:19:40.746983 2025] [mpm_event:notice] [pid 2874:tid 4659158528] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Thu Mar 20 15:19:40.748116 2025] [core:notice] [pid 2874:tid 4659158528] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Thu Mar 20 15:19:40.746894 2025] [:notice] [pid 2875:tid 4659158528] FastCGI: process manager initialized (pid 2875)
+[Thu Mar 20 17:30:58.790891 2025] [mpm_event:notice] [pid 2874:tid 4659158528] AH00491: caught SIGTERM, shutting down
+[Thu Mar 20 17:30:58.803798 2025] [:alert] [pid 2875:tid 4659158528] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Thu Mar 20 17:30:58.805058 2025] [:alert] [pid 2875:tid 4659158528] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Fri Mar 21 15:43:55.954480 2025] [:notice] [pid 1275:tid 4519091712] FastCGI: process manager initialized (pid 1275)
+[Fri Mar 21 15:43:55.955223 2025] [mpm_event:notice] [pid 1274:tid 4519091712] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Fri Mar 21 15:43:55.955873 2025] [core:notice] [pid 1274:tid 4519091712] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Fri Mar 21 18:31:27.907066 2025] [mpm_event:notice] [pid 1274:tid 4519091712] AH00491: caught SIGTERM, shutting down
+[Fri Mar 21 18:31:27.920868 2025] [:alert] [pid 1275:tid 4519091712] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Fri Mar 21 18:31:27.922096 2025] [:alert] [pid 1275:tid 4519091712] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Fri Mar 21 20:42:52.339303 2025] [:notice] [pid 786:tid 4489731584] FastCGI: process manager initialized (pid 786)
+[Fri Mar 21 20:42:52.341626 2025] [mpm_event:notice] [pid 785:tid 4489731584] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Fri Mar 21 20:42:52.342313 2025] [core:notice] [pid 785:tid 4489731584] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Mar 22 01:54:49.551508 2025] [mpm_event:notice] [pid 785:tid 4489731584] AH00491: caught SIGTERM, shutting down
+[Sat Mar 22 01:54:49.565667 2025] [:alert] [pid 786:tid 4489731584] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Sat Mar 22 01:54:49.566702 2025] [:alert] [pid 786:tid 4489731584] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Sat Mar 22 13:50:50.431555 2025] [mpm_event:notice] [pid 1517:tid 4667088384] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Sat Mar 22 13:50:50.432717 2025] [core:notice] [pid 1517:tid 4667088384] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Sat Mar 22 13:50:50.433372 2025] [:notice] [pid 1518:tid 4667088384] FastCGI: process manager initialized (pid 1518)
+[Sat Mar 22 14:35:14.491952 2025] [mpm_event:notice] [pid 1517:tid 4667088384] AH00491: caught SIGTERM, shutting down
+[Sat Mar 22 14:35:14.506020 2025] [:alert] [pid 1518:tid 4667088384] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Sat Mar 22 14:35:14.507103 2025] [:alert] [pid 1518:tid 4667088384] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Mon Mar 24 12:22:05.848318 2025] [mpm_event:notice] [pid 818:tid 4592950784] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Mar 24 12:22:05.849082 2025] [core:notice] [pid 818:tid 4592950784] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Mar 24 12:22:05.850643 2025] [:notice] [pid 819:tid 4592950784] FastCGI: process manager initialized (pid 819)
+[Mon Mar 24 13:58:55.320733 2025] [mpm_event:notice] [pid 818:tid 4592950784] AH00491: caught SIGTERM, shutting down
+[Mon Mar 24 13:58:55.333545 2025] [:alert] [pid 819:tid 4592950784] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Mon Mar 24 13:58:55.334407 2025] [:alert] [pid 819:tid 4592950784] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Mon Mar 24 17:17:07.260953 2025] [:notice] [pid 1061:tid 4538088960] FastCGI: process manager initialized (pid 1061)
+[Mon Mar 24 17:17:07.262173 2025] [mpm_event:notice] [pid 1060:tid 4538088960] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Mar 24 17:17:07.262745 2025] [core:notice] [pid 1060:tid 4538088960] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Mon Mar 24 18:21:03.276487 2025] [mpm_event:notice] [pid 1060:tid 4538088960] AH00491: caught SIGTERM, shutting down
+[Mon Mar 24 18:21:03.289344 2025] [:alert] [pid 1061:tid 4538088960] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Mon Mar 24 18:21:03.290885 2025] [:alert] [pid 1061:tid 4538088960] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Mon Mar 24 20:21:16.273890 2025] [:notice] [pid 727:tid 4468174336] FastCGI: process manager initialized (pid 727)
+[Mon Mar 24 20:21:16.274905 2025] [mpm_event:notice] [pid 726:tid 4468174336] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Mon Mar 24 20:21:16.275467 2025] [core:notice] [pid 726:tid 4468174336] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Tue Mar 25 01:28:33.421614 2025] [mpm_event:notice] [pid 726:tid 4468174336] AH00491: caught SIGTERM, shutting down
+[Tue Mar 25 01:28:33.436202 2025] [:alert] [pid 727:tid 4468174336] (4)Interrupted system call: FastCGI: read() from pipe failed (0)
+[Tue Mar 25 01:28:33.437730 2025] [:alert] [pid 727:tid 4468174336] (4)Interrupted system call: FastCGI: the PM is shutting down, Apache seems to have disappeared - bye
+[Wed Mar 26 21:53:23.715296 2025] [mpm_event:notice] [pid 2842:tid 4589829632] AH00489: Apache/2.4.62 (Unix) OpenSSL/1.1.1w mod_fastcgi/mod_fastcgi-SNAP-0910052141 configured -- resuming normal operations
+[Wed Mar 26 21:53:23.716458 2025] [core:notice] [pid 2842:tid 4589829632] AH00094: Command line: '/Applications/MAMP/Library/bin/httpd'
+[Wed Mar 26 21:53:23.716636 2025] [:notice] [pid 2843:tid 4589829632] FastCGI: process manager initialized (pid 2843)
